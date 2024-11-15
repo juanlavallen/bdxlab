@@ -1,0 +1,26 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el IDE
+*.iml
+.idea/
+*.class
+*.log
+*.swp
+
+# Configuración específica de IDEs
+.vscode/
+*.code-workspace
+
+# Archivos de respaldo
+*.bak
+*.tmp
+*.old
+
+# Archivos de salida del compilador
+out/
+bin/
+
+# Otros
+*.~lock.*
